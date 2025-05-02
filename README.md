@@ -13,7 +13,7 @@ Vertex Buffer Object (VBO), Vertex Array Object (VAO) ve Element Buffer Object (
 
 ✔ Temel şekiller ile sahne oluşturma
 
-Kapı, çayır, ağaçlar (gövde + yapraklar) ve kulübe modellenmiştir.
+Kapı, çayır, ağaçlar (silindirik gövde + koni yaprak ve icosahedron 20 yüzlü yaprak) ve kulübe (üçgen prizma ve küp) modellenmiştir.
 
 İndexed mesh ve normal hesaplama teknikleri kullanılmıştır.
 
