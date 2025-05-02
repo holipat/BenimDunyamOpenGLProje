@@ -60,6 +60,11 @@ ESC → Uygulamadan çık
 ### Sahne Özellikleri
 
 Karanlık bir ortamda tek bir kapı bulunur.
+![image](https://github.com/user-attachments/assets/004b9f4e-13df-4894-8dba-439baef161ae)
+
 Kamerayı kapıya yaklaştırıp içinden geçerseniz, arka plan gökyüzü rengine döner.
+![image](https://github.com/user-attachments/assets/af85cdb4-a338-4a8c-b094-4dd236bb705d)
+
 Rastgele dağıtılmış iki tür ağaç ve bir kulübe görünür.
+![image](https://github.com/user-attachments/assets/2a45d2e1-adc9-4d21-92d1-daf6b10d714f)
 
