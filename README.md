@@ -27,7 +27,7 @@ Kamera hareketi (WASD + fare bakışı)
 
 Vertex ve Fragment Shader kullanımı
 
-Işık ve malzeme özelliklerinin ayarlanması
+Işık özelliklerinin ayarlanması
 
 ✔ Phong aydınlatma modeli ile gerçekçi ışık ve gölge uygulamaları
 
@@ -37,9 +37,9 @@ Işık kaynağı ve global ışık yönü
 
 ✔ Kişisel veya tematik bir sahne tasarımı ile yaratıcılığı geliştirme
 
-Kapıdan geçildiğinde değişen arka plan (siyah → gökyüzü)
+Kapıdan geçildiğinde arka plan değişir. Karanlık yerini gökyüzüne bırakır.
 
-Rastgele dağıtılmış ağaçlar ve bir kulübe
+Rastgele dağıtılmış iki farklı ağaç türü ve bir kulübe bulunmaktadır.
 
 ## Kurulum ve Çalıştırma
 ### Gereksinimler
@@ -58,15 +58,8 @@ Fare hareketi → Bakış yönünü değiştir
 ESC → Uygulamadan çık
 
 ### Sahne Özellikleri
-Başlangıç Alanı
 
 Karanlık bir ortamda tek bir kapı bulunur.
-
-Kapıdan Geçiş
-
 Kamerayı kapıya yaklaştırıp içinden geçerseniz, arka plan gökyüzü rengine döner.
-
-Çayırlık Alan
-
 Rastgele dağıtılmış iki tür ağaç ve bir kulübe görünür.
 
